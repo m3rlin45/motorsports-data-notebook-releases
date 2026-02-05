@@ -1,24 +1,24 @@
 {
   "libxrk": {
     "releases": {
-      "0.5.0": [
+      "0.8.0": [
         {
           "comment_text": "",
           "digests": {
-            "md5": "1efb904a900a3897fc7f24e3834b2291",
-            "sha256": "2a58c0dba79669be945f25774415ccfd5196f932f7c00bbbbf0801580dc5c184"
+            "md5": "5d33385ca673078613aa195557d19795",
+            "sha256": "2b2b3ac72256313e48198de6e43ea9027923e5abe42b39b4119dd3a13e7c7612"
           },
           "downloads": -1,
-          "filename": "libxrk-0.5.0-cp312-cp312-pyodide_2024_0_wasm32.whl",
+          "filename": "libxrk-0.8.0-cp312-cp312-pyodide_2024_0_wasm32.whl",
           "has_sig": false,
-          "md5_digest": "1efb904a900a3897fc7f24e3834b2291",
+          "md5_digest": "5d33385ca673078613aa195557d19795",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": ">=3.10",
-          "size": 140868,
-          "upload_time": "2026-01-29T09:14:54.980908Z",
-          "upload_time_iso_8601": "2026-01-29T09:14:54.980908Z",
-          "url": "./libxrk-0.5.0-cp312-cp312-pyodide_2024_0_wasm32.whl",
+          "size": 150251,
+          "upload_time": "2026-02-05T08:24:19.540028Z",
+          "upload_time_iso_8601": "2026-02-05T08:24:19.540028Z",
+          "url": "./libxrk-0.8.0-cp312-cp312-pyodide_2024_0_wasm32.whl",
           "yanked": false,
           "yanked_reason": null
         }
@@ -27,24 +27,24 @@
   },
   "motorsports-data-notebook": {
     "releases": {
-      "0.7.0": [
+      "0.7.3": [
         {
           "comment_text": "",
           "digests": {
-            "md5": "a35745157e3c8cf6ddf42d7622a43dc1",
-            "sha256": "1dae4988dad9af197104645fd80322190cf40c5e3d1e8cc68ee1e973d45a8f95"
+            "md5": "119fdd9197a6bcf91701382813b42444",
+            "sha256": "22851534c7e3a35ba80f3d9e44d9918dd57625b393e375d6162c1bf7a27c8f65"
           },
           "downloads": -1,
-          "filename": "motorsports_data_notebook-0.7.0-py3-none-any.whl",
+          "filename": "motorsports_data_notebook-0.7.3-py3-none-any.whl",
           "has_sig": false,
-          "md5_digest": "a35745157e3c8cf6ddf42d7622a43dc1",
+          "md5_digest": "119fdd9197a6bcf91701382813b42444",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": ">=3.12,<4.0",
-          "size": 38425,
-          "upload_time": "2026-01-29T09:14:17.655936Z",
-          "upload_time_iso_8601": "2026-01-29T09:14:17.655936Z",
-          "url": "./motorsports_data_notebook-0.7.0-py3-none-any.whl",
+          "size": 40150,
+          "upload_time": "2026-02-05T08:23:34.073279Z",
+          "upload_time_iso_8601": "2026-02-05T08:23:34.073279Z",
+          "url": "./motorsports_data_notebook-0.7.3-py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
         }

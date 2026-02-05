@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-02-05T08:25:25.194708Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-02-05T08:23:33.383283Z",
+      "mimetype": null,
+      "name": "CMD_Inferno 86_Fuji GP Sh_Generic testing_a_2248.xrz",
+      "path": "data/CMD_Inferno 86_Fuji GP Sh_Generic testing_a_2248.xrz",
+      "size": 18180963,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-02-05T08:25:25.182709Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-02-05T08:25:25.182709Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
