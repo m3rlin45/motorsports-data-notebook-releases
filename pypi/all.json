@@ -5,19 +5,19 @@
         {
           "comment_text": "",
           "digests": {
-            "md5": "041eb80a376e6df874eabdb293480cdb",
-            "sha256": "19fd01de7d315f96321edd99588687cea301f48263b347b7cfa3b7711fa3dd4a"
+            "md5": "81d6a9b5c12a4ddff4380dafdf42435e",
+            "sha256": "740e724f83ebfaf721f2b10dbb8eab1fd22aa98d833d97c984f825a3c0d3deb6"
           },
           "downloads": -1,
           "filename": "libibt-0.0.4-cp313-cp313-pyodide_2025_0_wasm32.whl",
           "has_sig": false,
-          "md5_digest": "041eb80a376e6df874eabdb293480cdb",
+          "md5_digest": "81d6a9b5c12a4ddff4380dafdf42435e",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": ">=3.10",
           "size": 143979,
-          "upload_time": "2026-04-16T08:44:30.003800Z",
-          "upload_time_iso_8601": "2026-04-16T08:44:30.003800Z",
+          "upload_time": "2026-04-18T04:57:49.071509Z",
+          "upload_time_iso_8601": "2026-04-18T04:57:49.071509Z",
           "url": "./libibt-0.0.4-cp313-cp313-pyodide_2025_0_wasm32.whl",
           "yanked": false,
           "yanked_reason": null
@@ -31,19 +31,19 @@
         {
           "comment_text": "",
           "digests": {
-            "md5": "824403b2b3fe7d9a0ffa996300bdf3f0",
-            "sha256": "f489ab1368617f91fc9487e6090312948f47a620c0a7fdba14a7ba6437c15837"
+            "md5": "4315a5a127f29dce4bb7eb6ac6afe90b",
+            "sha256": "9fdc8d4a28dc8d36a166626fba3900292882304993027d97c05aded6287a6afe"
           },
           "downloads": -1,
           "filename": "libxrk-0.11.1-cp313-cp313-pyodide_2025_0_wasm32.whl",
           "has_sig": false,
-          "md5_digest": "824403b2b3fe7d9a0ffa996300bdf3f0",
+          "md5_digest": "4315a5a127f29dce4bb7eb6ac6afe90b",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": ">=3.10",
           "size": 373894,
-          "upload_time": "2026-04-16T08:44:30.197800Z",
-          "upload_time_iso_8601": "2026-04-16T08:44:30.197800Z",
+          "upload_time": "2026-04-18T04:57:49.145509Z",
+          "upload_time_iso_8601": "2026-04-18T04:57:49.145509Z",
           "url": "./libxrk-0.11.1-cp313-cp313-pyodide_2025_0_wasm32.whl",
           "yanked": false,
           "yanked_reason": null
@@ -53,24 +53,24 @@
   },
   "motorsports-data-notebook": {
     "releases": {
-      "0.13.0": [
+      "0.13.1": [
         {
           "comment_text": "",
           "digests": {
-            "md5": "e71268d5d892cf8bfeaff79f9b599493",
-            "sha256": "6baca97de144ff00fea893cc9840f24c18da810c9ed2fbad40956bf3ecd942f2"
+            "md5": "cc7f3c197024e1309bfb362704dab813",
+            "sha256": "2446259621a1d92ca95baf003cb4e2d5228d25b3a15c1c414301dbd9a6922a06"
           },
           "downloads": -1,
-          "filename": "motorsports_data_notebook-0.13.0-py3-none-any.whl",
+          "filename": "motorsports_data_notebook-0.13.1-py3-none-any.whl",
           "has_sig": false,
-          "md5_digest": "e71268d5d892cf8bfeaff79f9b599493",
+          "md5_digest": "cc7f3c197024e1309bfb362704dab813",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": "<4.0,>=3.12",
-          "size": 97784,
-          "upload_time": "2026-04-16T08:44:30.144490Z",
-          "upload_time_iso_8601": "2026-04-16T08:44:30.144490Z",
-          "url": "./motorsports_data_notebook-0.13.0-py3-none-any.whl",
+          "size": 97782,
+          "upload_time": "2026-04-18T04:57:48.959319Z",
+          "upload_time_iso_8601": "2026-04-18T04:57:48.959319Z",
+          "url": "./motorsports_data_notebook-0.13.1-py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
         }
@@ -94,8 +94,8 @@
           "python_version": "py3",
           "requires_python": ">=3.10",
           "size": 10088707,
-          "upload_time": "2026-04-16T08:44:29.620894Z",
-          "upload_time_iso_8601": "2026-04-16T08:44:29.620894Z",
+          "upload_time": "2026-04-18T04:57:49.851729Z",
+          "upload_time_iso_8601": "2026-04-18T04:57:49.851729Z",
           "url": "./pyarrow-22.0.0-cp313-cp313-pyodide_2025_0_wasm32.whl",
           "yanked": false,
           "yanked_reason": null
@@ -120,8 +120,8 @@
           "python_version": "py3",
           "requires_python": null,
           "size": 2168,
-          "upload_time": "2026-04-16T08:44:29.677384Z",
-          "upload_time_iso_8601": "2026-04-16T08:44:29.677384Z",
+          "upload_time": "2026-04-18T04:57:50.169514Z",
+          "upload_time_iso_8601": "2026-04-18T04:57:50.169514Z",
           "url": "./pyodide_unix_timezones-1.0.0-py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
