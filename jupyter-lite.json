@@ -414,7 +414,7 @@
     "litePluginSettings": {
       "@jupyterlite/pyodide-kernel-extension:kernel": {
         "pipliteUrls": [
-          "./pypi/all.json?sha256=688ca9df4071b9ddd454c3eb767088bd3c9f48d54629eb56a74d797c947deb18",
+          "./pypi/all.json?sha256=bc61ef906e8a545438b1c016943125e0f0c9df0e2e37ab65a51c4c39fb94ae85",
           "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=783d01f64a330ecbbd82318ba2fde8842bc8eece502b821b8c0f57cacdde5cdc"
         ],
         "pyodideUrl": "./static/pyodide/pyodide.js"
