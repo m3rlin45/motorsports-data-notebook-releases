@@ -9,7 +9,7 @@
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.fd873b8f935e95a9e9fa.js",
+        "load": "static/remoteEntry.c632334bd55eee9396d9.js",
         "name": "@jupyter-notebook/lab-extension",
         "style": "./style"
       },
@@ -24,7 +24,7 @@
         "name": "@jupyterlite/pyodide-kernel-extension"
       },
       {
-        "load": "static/remoteEntry.a1fdd5414cdd3506ffce.js",
+        "load": "static/remoteEntry.b2077f01f9b03ba2c63d.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -414,7 +414,7 @@
     "litePluginSettings": {
       "@jupyterlite/pyodide-kernel-extension:kernel": {
         "pipliteUrls": [
-          "./pypi/all.json?sha256=bc61ef906e8a545438b1c016943125e0f0c9df0e2e37ab65a51c4c39fb94ae85",
+          "./pypi/all.json?sha256=99220f5a79a8871e39d9ce11c0a5d6900d7ee09f17fe7f80899d2bb7a21cd38f",
           "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=783d01f64a330ecbbd82318ba2fde8842bc8eece502b821b8c0f57cacdde5cdc"
         ],
         "pyodideUrl": "./static/pyodide/pyodide.js"
