@@ -2,14 +2,15 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.7.1",
+    "appVersion": "0.8.1",
     "baseUrl": "./",
+    "contentsAllJsonFile": "all.json",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.c632334bd55eee9396d9.js",
+        "load": "static/remoteEntry.69028c30604e6a06.js",
         "name": "@jupyter-notebook/lab-extension",
         "style": "./style"
       },
@@ -20,11 +21,11 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.a117bd216cefa0b341fe.js",
+        "load": "static/remoteEntry.aa04e0a5a4304ac1.js",
         "name": "@jupyterlite/pyodide-kernel-extension"
       },
       {
-        "load": "static/remoteEntry.b2077f01f9b03ba2c63d.js",
+        "load": "static/remoteEntry.58c394332ed33325ffe5.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -414,10 +415,20 @@
     "litePluginSettings": {
       "@jupyterlite/pyodide-kernel-extension:kernel": {
         "pipliteUrls": [
-          "./pypi/all.json?sha256=955e427528591577adba91d0266b2494f9845556b4243de59eef7bd055390a7f",
-          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=783d01f64a330ecbbd82318ba2fde8842bc8eece502b821b8c0f57cacdde5cdc"
+          "./pypi/all.json?sha256=65b1ceb7a30d114611f4fd3345681fe9f4dd0280eb3daa50e7c6b88597835f62",
+          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=f67dd037f0a3fd732fb23ec94f0f1578b5bd12ea0bafcff420696664e732559f"
         ],
-        "pyodideUrl": "./static/pyodide/pyodide.js"
+        "pyodideUrl": "./static/pyodide/pyodide.mjs"
+      }
+    },
+    "versionInfo": {
+      "@jupyter-notebook/application": {
+        "label": "Jupyter Notebook",
+        "version": "7.6.0"
+      },
+      "@jupyterlab/application": {
+        "label": "JupyterLab",
+        "version": "4.6.0"
       }
     }
   },
