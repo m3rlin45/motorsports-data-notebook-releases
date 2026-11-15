@@ -1,24 +1,24 @@
 {
   "motorsports-data-notebook": {
     "releases": {
-      "1.2.3": [
+      "1.2.4": [
         {
           "comment_text": "",
           "digests": {
-            "md5": "d2d875db9e8744d9670a48fd1076669e",
-            "sha256": "2a49d24f7a3fb89882ad5ffb11fd83b3f6a5d7f52ef4179f3cc92eef316e5a8e"
+            "md5": "fb52aa83245b536bbc4a4d970b542e9b",
+            "sha256": "5aca90f38224646b8fe16d1e0349e35f88d593127277ae1a95bab2795ef8c310"
           },
           "downloads": -1,
-          "filename": "motorsports_data_notebook-1.2.3-py3-none-any.whl",
+          "filename": "motorsports_data_notebook-1.2.4-py3-none-any.whl",
           "has_sig": false,
-          "md5_digest": "d2d875db9e8744d9670a48fd1076669e",
+          "md5_digest": "fb52aa83245b536bbc4a4d970b542e9b",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": "<4.0,>=3.12",
           "size": 318684,
-          "upload_time": "2026-11-14T00:42:24.175502Z",
-          "upload_time_iso_8601": "2026-11-14T00:42:24.175502Z",
-          "url": "./motorsports_data_notebook-1.2.3-py3-none-any.whl",
+          "upload_time": "2026-11-15T00:00:52.590377Z",
+          "upload_time_iso_8601": "2026-11-15T00:00:52.590377Z",
+          "url": "./motorsports_data_notebook-1.2.4-py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
         }
